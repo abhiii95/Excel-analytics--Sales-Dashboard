@@ -6,7 +6,7 @@ Use Excel to analyze the sales based on various product categories.
 
  
 
-Description:
+# Description:
 
 The dataset in file E-Commerce Dashboard dataset.xlsx contains sales data for different product categories. The following are the features in the dataset:
 
@@ -39,8 +39,10 @@ Create User Control Combo box for Product Category
 Create a Column Chart of the month-wise table and region-wise table
 Link the table with a combo box
 Create a dashboard
-Tools required: Microsoft Excel, Data Analysis Add-in
+# Tools required: 
+Microsoft Excel, Data Analysis Add-in
 
  
 
-Expected Deliverables:  Design a sales dashboard that analyzes the sales based on various product categories. The company wants to add user control for product category so that users can select a category and can see the trend month-wise and product-wise accordingly.
+# Expected Deliverables:  
+Design a sales dashboard that analyzes the sales based on various product categories. The company wants to add user control for product category so that users can select a category and can see the trend month-wise and product-wise accordingly.
